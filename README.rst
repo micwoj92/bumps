@@ -5,7 +5,7 @@ Bumps: data fitting and uncertainty estimation
 Bumps provides data fitting and Bayesian uncertainty modeling for inverse
 problems.  It has a variety of optimization algorithms available for locating
 the most like value for function parameters given data, and for exploring
-the uncertainty around the minimum.
+the uncertainty around the minimum
 
 Installation is with the usual python installation command::
 
